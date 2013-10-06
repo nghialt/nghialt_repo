@@ -1,0 +1,1 @@
+../../gundo.vim/site/publish.sh
